@@ -41,3 +41,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+---
+
+### :fire: My Stats :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StepanovaValeriya&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepanovaValeriya&theme=great-gatsby&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanovaValeriya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
